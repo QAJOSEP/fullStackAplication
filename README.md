@@ -1,5 +1,5 @@
 # fullStackApplication
-CRUD fullStack desarrollado con Spring boot y React
+CRUD fullStack desarrollado con Spring boot 🍃 y React⚛️
 
 🌟 No olvides regalarme una estrellita 🌟
 
