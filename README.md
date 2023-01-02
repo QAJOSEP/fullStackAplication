@@ -1,4 +1,4 @@
-# fullStackAplication
+# fullStackApplication
 CRUD fullStack desarrollado con Spring boot y React
 
 <h1> Para iniciar el proyecto </h1>
